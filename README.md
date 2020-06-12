@@ -9,3 +9,5 @@ Landing page that counts down from the current date to the next new year
 - Insert values into the DOM
 - Show a spinner right before loading the countdown
 - Show the coming year in the background
+
+<h3><a href="https://starchitect-countdown.netlify.app/">Demo</a></h3>
